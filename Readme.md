@@ -2,6 +2,29 @@
 
 
 
+## Front-End of application
+
+![](/home/gagandayal/Pictures/KryptoExchange.png)
+
+
+
+## How to run the project
+
+**Run under client folder** 
+
+### Install the dependencies (**Run inside client folder inside terminal** )
+
+```
+npm install
+```
+
+### Run the project (**Run inside client folder** )
+
+```
+npm run dev
+```
+
+
 ## Packages Used
 
 **Run under client folder** 
