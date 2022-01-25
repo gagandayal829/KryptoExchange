@@ -4,7 +4,7 @@
 
 ## Front-End of application
 
-![](/home/gagandayal/Pictures/KryptoExchange.png)
+
 
 
 
