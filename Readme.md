@@ -4,6 +4,7 @@
 
 ## Front-End of application
 
+![KryptoExchange](https://user-images.githubusercontent.com/73552321/151007816-5986f2b9-0de6-4162-a5e1-3f4205452229.png)
 
 
 
